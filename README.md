@@ -10,8 +10,8 @@ This repository focuses on practical querying—working through real-world inves
 
 | Metric | Count |
 |:--------|------:|
-| 📁 Scenarios | **7** |
-| 📄 Sections Completed | **21** |
+| 📁 Scenarios | **10** |
+| 📄 Sections Completed | **26** |
 | 🔍 KQL Queries | **150+** |
 | 📚 Documentation | **Markdown** |
 | 🚀 Status | **🟢 Active Development** |
@@ -63,20 +63,42 @@ This repository is a **work in progress** and is updated regularly with new KC7 
 
 ---
 
-## 5️⃣ French Socksess Story
+## 5️⃣ Dai Wok Foods - A Challenging Culinary Mystery
+
+- `Section 1 - KQL 101 🍚.md`
+- `Section 2 - Tummy Trouble, make it Double 🤢.md`
+
+---
+
+## 6️⃣ Empire Health
+
+- `Section 1 - Empire Health Introduction.md`
+- `Section 2 - More Intel.md`
+
+---
+
+## 7️⃣ French Socksess Story
 
 - `Section 1 - Sock Savior.md`
 
 ---
 
-## 6️⃣ Sunlands - A Tough Space Investigation
+## 8️⃣ Scholomance - Secrets and Lateral Movement
+
+- `Section 0 - KQL 101! 🧙.md`
+- `Section 1 - They call me CRIMSON 🐁.md`
+- `Section 2 - 🌲 Forest Blizzard ❄️.md`
+
+---
+
+## 9️⃣ Sunlands - A Tough Space Investigation
 
 - `SUPERMASSIVE BLACKHOLE 🪐.md`
 - `YEETED INTO SPACE 😱👾.md`
 
 ---
 
-## 7️⃣ World Domination Nation
+## 🔟 World Domination Nation
 
 - `Section 3 - GETTING SMARTER 🧠.md`
 
