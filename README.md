@@ -12,7 +12,7 @@ This repository focuses on practical querying—working through real-world inves
 |:--------|------:|
 | 📁 Scenarios | **10** |
 | 📄 Sections Completed | **26** |
-| 🔍 KQL Queries | **750+** |
+| 🔍 KQL Queries | **450+** |
 | 📚 Documentation | **Markdown** |
 | 🚀 Status | **🟢 Active Development** |
 
