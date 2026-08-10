@@ -10,9 +10,9 @@ This repository focuses on practical querying—working through real-world inves
 
 | Metric | Count |
 |:--------|------:|
-| 📁 Scenarios | **10** |
-| 📄 Sections Completed | **26** |
-| 🔍 KQL Queries | **450+** |
+| 📁 Scenarios | **11** |
+| 📄 Sections Completed | **31** |
+| 🔍 KQL Queries | **150+** |
 | 📚 Documentation | **Markdown** |
 | 🚀 Status | **🟢 Active Development** |
 
@@ -83,7 +83,17 @@ This repository is a **work in progress** and is updated regularly with new KC7 
 
 ---
 
-## 8️⃣ Scholomance - Secrets and Lateral Movement
+## 8️⃣ Krusty Krab - A Intro to Pivoting and Analysis
+
+- `Section 1 - KQL 101 🥚.md`
+- `Section 2 - Just Keep Swimming 🐟.md`
+- `Section 3 - Hash Slinging Slasher 🪦.md`
+- `Section 4 - Swimming with Jellyfishes 🏊‍♀️.md`
+- `Section 5 - Y'all Too Good.md`
+
+---
+
+## 9️⃣ Scholomance - Secrets and Lateral Movement
 
 - `Section 0 - KQL 101! 🧙.md`
 - `Section 1 - They call me CRIMSON 🐁.md`
@@ -91,14 +101,14 @@ This repository is a **work in progress** and is updated regularly with new KC7 
 
 ---
 
-## 9️⃣ Sunlands - A Tough Space Investigation
+## 🔟 Sunlands - A Tough Space Investigation
 
 - `SUPERMASSIVE BLACKHOLE 🪐.md`
 - `YEETED INTO SPACE 😱👾.md`
 
 ---
 
-## 🔟 World Domination Nation
+## 1️⃣1️⃣ World Domination Nation
 
 - `Section 3 - GETTING SMARTER 🧠.md`
 
