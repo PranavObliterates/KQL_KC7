@@ -12,7 +12,7 @@ This repository focuses on practical querying—working through real-world inves
 |:--------|------:|
 | 📁 Scenarios | **13** |
 | 📄 Sections Completed | **37** |
-| 🔍 KQL Queries | **150+** |
+| 🔍 KQL Queries | **250+** |
 | 📚 Documentation | **Markdown** |
 | 🚀 Status | **🟢 Active Development** |
 
@@ -72,7 +72,7 @@ This repository is a **work in progress** and is updated regularly with new KC7 
 
 ## 6️⃣ Dai Wok Foods - A Challenging Culinary Mystery
 
-- `Section 1 - KQL 101 🍚.md`
+- `Section 1 - KQL 101 🐣.md`
 - `Section 2 - Tummy Trouble, make it Double 🤢.md`
 - `Section 3 - Chaos 😱.md`
 - `Section 4 (BONUS) - Security Jeopardy 📡.md`
@@ -101,7 +101,7 @@ This repository is a **work in progress** and is updated regularly with new KC7 
 
 ## 🔟 Krusty Krab - A Intro to Pivoting and Analysis
 
-- `Section 1 - KQL 101 🥚.md`
+- `Section 1 - KQL 101 🐣.md`
 - `Section 2 - Just Keep Swimming 🐟.md`
 - `Section 3 - Hash Slinging Slasher 🪦.md`
 - `Section 4 - Swimming with Jellyfishes 🏊‍♀️.md`
@@ -156,9 +156,11 @@ This repository is intended to:
 # 📝 Notes
 
 - All documentation is written in **Markdown**.
-- Scenario names and section titles are preserved exactly as provided by KC7.
+- Scenario names and section titles are preserved as provided by KC7.
 - Queries include explanations, investigation steps, and observations where applicable.
 - This repository is continuously expanded as more KC7 investigations are completed.
+
+> **Disclaimer:** This repository does **not** contain documentation for every scenario or section available in KC7. Documentation for some modules was started **midway through the investigation**, so certain earlier sections may be missing. The repository represents my ongoing KC7 learning and investigation work rather than a complete archive of all KC7 content.
 
 ---
 
